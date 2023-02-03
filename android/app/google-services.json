@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777334974975",
+    "firebase_url": "https://done-chat-1fffe-default-rtdb.firebaseio.com",
+    "project_id": "done-chat-1fffe",
+    "storage_bucket": "done-chat-1fffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777334974975:android:f873c3c50682b0c1d9dfca",
+        "android_client_info": {
+          "package_name": "com.example.donechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777334974975-b19s2iuaoei53clp4qtr0dp3dok5tosa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6f-crbvQ4_5kdDGEUdWXREPKiHjEi0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777334974975-b19s2iuaoei53clp4qtr0dp3dok5tosa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
